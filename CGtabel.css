@@ -1,0 +1,25 @@
+body{
+  background-color:lightblue;
+
+}
+
+}
+
+.container-text{
+  max-width:800px;
+  margin:auto;
+  height:200px;
+  background-color:rgb(48, 123, 144);
+  margin-bottom:2px;
+  color:white;
+}
+
+
+
+tr, th, td{
+  padding:15px
+}
+th{
+  background:rgb(48, 123, 144);
+  color:white;
+}
